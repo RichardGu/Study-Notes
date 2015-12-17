@@ -1,0 +1,48 @@
+Fuelign the expertise economy:
+https://www.zintro.com/home
+
+Deep Learnign for Java
+http://deeplearning4j.org/linear-regression.html
+
+Machine Learning Framework: CAFFE
+https://github.com/BVLC/caffe
+
+MotifInvesting
+https://www.motifinvesting.com
+
+我用Sketch設計Android app 的工作流程
+https://medium.com/sketch-app-sources/%E6%88%91%E7%94%A8-sktch-%E8%A8%AD%E8%A8%88-android-app-%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B-5062c337b64b#.m755s5vdf
+
+Thinking in React
+https://facebook.github.io/react/docs/thinking-in-react.html
+
+CSS, JS resources
+http://navnav.co/
+
+H2O World 2015 conference
+http://library.fora.tv/conference/h2o_world_2015
+
+Dive Into Machine Learning
+http://hangtwenty.github.io/dive-into-machine-learning/
+
+29个前端工程师和设计师必备的Chrome插件
+http://get.ftqq.com/8215.get
+
+机器学习逻辑回归模型总结——从原理到sklearn实践
+https://www.91ri.org/14727.html
+
+程序员常去的6个头条分享站点
+http://www.phpxs.com/post/4279
+
+crawler4j：轻量级多线程网络爬虫
+http://hao.jobbole.com/crawler4j/
+
+Free & Good Image Resources
+http://barnimages.com/
+
+Gold-Xitu
+http://gold.xitu.io/#/home
+
+Working Stuff
+https://sa.dexmedia.com/secureauth1/secureauth.aspx
+
